@@ -1,0 +1,9 @@
+{
+  "name": "freeprints-qc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "python3 qc_wrapper.py"
+  },
+  "dependencies": {}
+}
